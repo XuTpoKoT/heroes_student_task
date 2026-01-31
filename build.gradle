@@ -1,0 +1,7 @@
+plugins {
+    id 'java'
+}
+
+dependencies {
+    implementation files("libs/heroes_task_lib-1.0-SNAPSHOT.jar")
+}
