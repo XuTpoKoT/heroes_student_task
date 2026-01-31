@@ -61,3 +61,7 @@ BFS:
 
 Итоговая сложность:
 O(WIDTH * HEIGHT) = O(N)
+
+### Фрагмент боя
+<img width="1194" height="828" alt="image" src="https://github.com/user-attachments/assets/cd50b52c-314a-4ce0-8f76-94ba35fd7c99" />
+
